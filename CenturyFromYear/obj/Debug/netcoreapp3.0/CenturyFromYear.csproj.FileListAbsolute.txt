@@ -1,0 +1,11 @@
+C:\Users\adria\source\repos\CenturyFromYear\CenturyFromYear\bin\Debug\netcoreapp3.0\CenturyFromYear.exe
+C:\Users\adria\source\repos\CenturyFromYear\CenturyFromYear\bin\Debug\netcoreapp3.0\CenturyFromYear.deps.json
+C:\Users\adria\source\repos\CenturyFromYear\CenturyFromYear\bin\Debug\netcoreapp3.0\CenturyFromYear.runtimeconfig.json
+C:\Users\adria\source\repos\CenturyFromYear\CenturyFromYear\bin\Debug\netcoreapp3.0\CenturyFromYear.runtimeconfig.dev.json
+C:\Users\adria\source\repos\CenturyFromYear\CenturyFromYear\bin\Debug\netcoreapp3.0\CenturyFromYear.dll
+C:\Users\adria\source\repos\CenturyFromYear\CenturyFromYear\bin\Debug\netcoreapp3.0\CenturyFromYear.pdb
+C:\Users\adria\source\repos\CenturyFromYear\CenturyFromYear\obj\Debug\netcoreapp3.0\CenturyFromYear.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\CenturyFromYear\CenturyFromYear\obj\Debug\netcoreapp3.0\CenturyFromYear.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\CenturyFromYear\CenturyFromYear\obj\Debug\netcoreapp3.0\CenturyFromYear.AssemblyInfo.cs
+C:\Users\adria\source\repos\CenturyFromYear\CenturyFromYear\obj\Debug\netcoreapp3.0\CenturyFromYear.dll
+C:\Users\adria\source\repos\CenturyFromYear\CenturyFromYear\obj\Debug\netcoreapp3.0\CenturyFromYear.pdb
