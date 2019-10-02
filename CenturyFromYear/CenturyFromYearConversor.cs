@@ -8,7 +8,8 @@ namespace CenturyFromYear
     {
         public static int ConvertYear(int number)
         {
-            return number > 100 ? 2 : 1;
+            return number / 100 + 1;
         }
+
     }
 }
