@@ -15,9 +15,12 @@ namespace CenturyFromYearConversor_
         }
 
         [TestMethod]
-        public void given_101_should_return_2()
+        public void given_number_gt_100_and_lt_201_should_return_2()
         {
             Assert.AreEqual(2, CenturyFromYearConversor.ConvertYear(101));
+            Assert.AreEqual(2, CenturyFromYearConversor.ConvertYear(110));
+            Assert.AreEqual(2, CenturyFromYearConversor.ConvertYear(200));
         }
+
     }
 }
