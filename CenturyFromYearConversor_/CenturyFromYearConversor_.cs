@@ -25,6 +25,12 @@ namespace CenturyFromYearConversor_
         {
             Assert.AreEqual(3, CenturyFromYearConversor.ConvertYear(201));
         }
+        
+        [TestMethod]
+        public void given_100_should_return_1()
+        {
+            Assert.AreEqual(1, CenturyFromYearConversor.ConvertYear(100));
+        }
 
     }
 }
